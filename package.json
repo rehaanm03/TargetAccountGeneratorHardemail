@@ -1,0 +1,38 @@
+{
+  "name": "new-chrome-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build2": "nexe index.js -b",
+    "build": "nexe index.js --verbose -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "console-read-write": "^0.1.1",
+    "csv-parse": "^4.15.1",
+    "date-and-time": "^0.14.1",
+    "delay": "^4.4.0",
+    "discord-rich-presence": "0.0.8",
+    "fs": "0.0.1-security",
+    "google-spreadsheet": "^2.0.6",
+    "mongoose": "^5.11.15",
+    "node-csv": "^0.1.2",
+    "node-machine-id": "^1.1.12",
+    "path": "^0.12.7",
+    "pkg": "^4.4.9",
+    "prompt": "^1.0.0",
+    "puppeteer": "^2.1.1",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-recaptcha": "^3.1.10",
+    "puppeteer-extra-plugin-stealth": "^2.7.4",
+    "random-int": "^2.0.1",
+    "random-name": "^0.1.2",
+    "webhook-discord": "^3.7.7"
+  }
+}

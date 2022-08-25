@@ -1,0 +1,259 @@
+[08/25/2022 12:09:22] [Task ] Welcome Back 
+[08/25/2022 12:09:22] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:09:22] [Task 4741]  
+[08/25/2022 12:09:22] [Task 4741] Starting 
+[08/25/2022 12:09:22] [Task 4741] Using Headless Mode: false 
+[08/25/2022 12:09:22] [Task 4741] Using Proxy Mode: true 
+[08/25/2022 12:09:44] [Task ] Welcome Back 
+[08/25/2022 12:09:44] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:09:44] [Task 4473]  
+[08/25/2022 12:09:44] [Task 4473] Starting 
+[08/25/2022 12:09:44] [Task 4473] Using Headless Mode: false 
+[08/25/2022 12:09:44] [Task 4473] Using Proxy Mode: true 
+[08/25/2022 12:09:44] [Task 4473]  
+[08/25/2022 12:09:44] [Task 4473] Getting Proxys 
+[08/25/2022 12:09:44] [Task 4473] Using Proxy: http://94.101.114.184:51508 
+[08/25/2022 12:09:44] [Task 4473] Started 
+[08/25/2022 12:10:06] [Task ] Welcome Back 
+[08/25/2022 12:10:06] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:10:06] [Task 8461]  
+[08/25/2022 12:10:06] [Task 8461] Starting 
+[08/25/2022 12:10:06] [Task 8461] Using Headless Mode: false 
+[08/25/2022 12:10:06] [Task 8461] Using Proxy Mode: false 
+[08/25/2022 12:10:06] [Task 8461]  
+[08/25/2022 12:10:06] [Task 8461] Started 
+[08/25/2022 12:10:08] [Task 8461] Heading to Sign Up 
+[08/25/2022 12:10:08] [Task 8461] First Name: Tommi 
+[08/25/2022 12:10:08] [Task 8461] Last Name: Demmy 
+[08/25/2022 12:10:08] [Task 8461] Email: kendragom1e119a3111111131111@gmail.com 
+[08/25/2022 12:10:08] [Task 8461] Password: User1234! 
+[08/25/2022 12:11:33] [Task 8461] Creating Account 
+[08/25/2022 12:11:53] [Task ] Welcome Back 
+[08/25/2022 12:11:53] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:11:53] [Task 3584]  
+[08/25/2022 12:11:53] [Task 3584] Starting 
+[08/25/2022 12:11:53] [Task 3584] Using Headless Mode: false 
+[08/25/2022 12:11:53] [Task 3584] Using Proxy Mode: false 
+[08/25/2022 12:11:53] [Task 3584]  
+[08/25/2022 12:11:53] [Task 3584] Started 
+[08/25/2022 12:11:54] [Task 3584] Heading to Sign Up 
+[08/25/2022 12:11:54] [Task 3584] First Name: Tommi 
+[08/25/2022 12:11:54] [Task 3584] Last Name: Demmy 
+[08/25/2022 12:11:54] [Task 3584] Email: kendragom1e119a3111111131111@gmail.com 
+[08/25/2022 12:11:54] [Task 3584] Password: User1234! 
+[08/25/2022 12:11:58] [Task 3584] Creating Account 
+[08/25/2022 12:12:04] [Task 3584] Caught by Anti-Bot 
+[08/25/2022 12:12:04] [Task 3584] Waiting for 9 Minute(s) 
+[08/25/2022 12:13:21] [Task ] Welcome Back 
+[08/25/2022 12:13:21] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:13:21] [Task 9986]  
+[08/25/2022 12:13:21] [Task 9986] Starting 
+[08/25/2022 12:13:21] [Task 9986] Using Headless Mode: false 
+[08/25/2022 12:13:21] [Task 9986] Using Proxy Mode: false 
+[08/25/2022 12:13:21] [Task 9986]  
+[08/25/2022 12:13:21] [Task 9986] Started 
+[08/25/2022 12:13:23] [Task 9986] Heading to Sign Up 
+[08/25/2022 12:13:23] [Task 9986] First Name: Tommi 
+[08/25/2022 12:13:23] [Task 9986] Last Name: Demmy 
+[08/25/2022 12:13:23] [Task 9986] Email: kendragom1e119a3111111131111@gmail.com 
+[08/25/2022 12:13:23] [Task 9986] Password: User1234! 
+[08/25/2022 12:13:26] [Task 9986] Creating Account 
+[08/25/2022 12:13:32] [Task 9986] That Target.com account already exists. You can Sign In or reset your password. 
+[08/25/2022 12:13:32] [Task 8589]  
+[08/25/2022 12:13:32] [Task 8589] Starting 
+[08/25/2022 12:13:32] [Task 8589] Using Headless Mode: false 
+[08/25/2022 12:13:32] [Task 8589] Using Proxy Mode: false 
+[08/25/2022 12:13:32] [Task 8589]  
+[08/25/2022 12:13:32] [Task 8589] Started 
+[08/25/2022 12:13:34] [Task 8589] Heading to Sign Up 
+[08/25/2022 12:13:34] [Task 8589] First Name: Martica 
+[08/25/2022 12:13:34] [Task 8589] Last Name: Dreyer 
+[08/25/2022 12:13:34] [Task 8589] Email: jason1ta1yl1o11r1a11311@gmail.com 
+[08/25/2022 12:13:34] [Task 8589] Password: User1234! 
+[08/25/2022 12:13:50] [Task ] Welcome Back 
+[08/25/2022 12:13:50] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:13:50] [Task 9575]  
+[08/25/2022 12:13:50] [Task 9575] Starting 
+[08/25/2022 12:13:50] [Task 9575] Using Headless Mode: false 
+[08/25/2022 12:13:50] [Task 9575] Using Proxy Mode: false 
+[08/25/2022 12:13:50] [Task 9575]  
+[08/25/2022 12:13:50] [Task 9575] Started 
+[08/25/2022 12:13:51] [Task 9575] Heading to Sign Up 
+[08/25/2022 12:13:51] [Task 9575] First Name: Tommi 
+[08/25/2022 12:13:51] [Task 9575] Last Name: Demmy 
+[08/25/2022 12:13:51] [Task 9575] Email: kendrags11@gmail.com 
+[08/25/2022 12:13:51] [Task 9575] Password: User1234! 
+[08/25/2022 12:13:55] [Task 9575] Creating Account 
+[08/25/2022 12:13:59] [Task 9575] Caught by Anti-Bot 
+[08/25/2022 12:13:59] [Task 9575] Waiting for 5 Minute(s) 
+[08/25/2022 12:15:17] [Task ] Welcome Back 
+[08/25/2022 12:15:17] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:15:17] [Task 7115]  
+[08/25/2022 12:15:17] [Task 7115] Starting 
+[08/25/2022 12:15:17] [Task 7115] Using Headless Mode: false 
+[08/25/2022 12:15:17] [Task 7115] Using Proxy Mode: false 
+[08/25/2022 12:15:17] [Task 7115]  
+[08/25/2022 12:15:17] [Task 7115] Started 
+[08/25/2022 12:15:18] [Task 7115] Heading to Sign Up 
+[08/25/2022 12:15:18] [Task 7115] First Name: Tommi 
+[08/25/2022 12:15:18] [Task 7115] Last Name: Demmy 
+[08/25/2022 12:15:18] [Task 7115] Email: kendrags11@gmail.com 
+[08/25/2022 12:15:18] [Task 7115] Password: User1234! 
+[08/25/2022 12:15:21] [Task 7115] Creating Account 
+[08/25/2022 12:15:40] [Task 7115] That Target.com account already exists. You can Sign In or reset your password. 
+[08/25/2022 12:15:40] [Task 7557]  
+[08/25/2022 12:15:40] [Task 7557] Starting 
+[08/25/2022 12:15:40] [Task 7557] Using Headless Mode: false 
+[08/25/2022 12:15:40] [Task 7557] Using Proxy Mode: false 
+[08/25/2022 12:15:40] [Task 7557]  
+[08/25/2022 12:15:40] [Task 7557] Started 
+[08/25/2022 12:15:42] [Task 7557] Heading to Sign Up 
+[08/25/2022 12:15:42] [Task 7557] First Name: Martica 
+[08/25/2022 12:15:42] [Task 7557] Last Name: Dreyer 
+[08/25/2022 12:15:42] [Task 7557] Email: jason1s311@gmail.com 
+[08/25/2022 12:15:42] [Task 7557] Password: User1234! 
+[08/25/2022 12:15:45] [Task 7557] Creating Account 
+[08/25/2022 12:15:50] [Task 7557] Added Accounts to /SuccessfullAccount Folder 
+[08/25/2022 12:15:50] [Task 3439]  
+[08/25/2022 12:15:50] [Task 3439] Starting 
+[08/25/2022 12:15:50] [Task 3439] Using Headless Mode: false 
+[08/25/2022 12:15:50] [Task 3439] Using Proxy Mode: false 
+[08/25/2022 12:15:50] [Task 3439]  
+[08/25/2022 12:15:50] [Task 3439] Started 
+[08/25/2022 12:15:52] [Task 3439] Heading to Sign Up 
+[08/25/2022 12:15:52] [Task 3439] First Name: Janot 
+[08/25/2022 12:15:52] [Task 3439] Last Name: Lema 
+[08/25/2022 12:15:52] [Task 3439] Email: dorismartin11s13111@gmail.com 
+[08/25/2022 12:15:52] [Task 3439] Password: User1234! 
+[08/25/2022 12:15:55] [Task 3439] Creating Account 
+[08/25/2022 12:16:01] [Task 3439] Added Accounts to /SuccessfullAccount Folder 
+[08/25/2022 12:16:01] [Task 9525]  
+[08/25/2022 12:16:01] [Task 9525] Starting 
+[08/25/2022 12:16:01] [Task 9525] Using Headless Mode: false 
+[08/25/2022 12:16:01] [Task 9525] Using Proxy Mode: false 
+[08/25/2022 12:16:01] [Task 9525]  
+[08/25/2022 12:16:01] [Task 9525] Started 
+[08/25/2022 12:16:03] [Task 9525] Heading to Sign Up 
+[08/25/2022 12:16:03] [Task 9525] First Name: Melody 
+[08/25/2022 12:16:03] [Task 9525] Last Name: Eleonora 
+[08/25/2022 12:16:03] [Task 9525] Email: Rebecs1a31111@gmail.com 
+[08/25/2022 12:16:03] [Task 9525] Password: User1234! 
+[08/25/2022 12:16:06] [Task 9525] Creating Account 
+[08/25/2022 12:16:12] [Task 9525] Added Accounts to /SuccessfullAccount Folder 
+[08/25/2022 12:16:12] [Task 457]  
+[08/25/2022 12:16:12] [Task 457] Starting 
+[08/25/2022 12:16:12] [Task 457] Using Headless Mode: false 
+[08/25/2022 12:16:12] [Task 457] Using Proxy Mode: false 
+[08/25/2022 12:16:12] [Task 457]  
+[08/25/2022 12:16:12] [Task 457] Started 
+[08/25/2022 12:16:14] [Task 457] Heading to Sign Up 
+[08/25/2022 12:16:14] [Task 457] First Name: Micaela 
+[08/25/2022 12:16:14] [Task 457] Last Name: Jeanie 
+[08/25/2022 12:16:14] [Task 457] Email: raquels11a1311@gmail.com 
+[08/25/2022 12:16:14] [Task 457] Password: User1234! 
+[08/25/2022 12:16:17] [Task 457] Creating Account 
+[08/25/2022 12:16:23] [Task 457] Added Accounts to /SuccessfullAccount Folder 
+[08/25/2022 12:16:23] [Task Starting] Successfully Genned All Accounts 
+[08/25/2022 12:18:36] [Task ] Welcome Back 
+[08/25/2022 12:18:36] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:18:36] [Task 5720]  
+[08/25/2022 12:18:36] [Task 5720] Starting 
+[08/25/2022 12:18:36] [Task 5720] Using Headless Mode: false 
+[08/25/2022 12:18:36] [Task 5720] Using Proxy Mode: false 
+[08/25/2022 12:18:36] [Task 5720]  
+[08/25/2022 12:18:36] [Task 5720] Started 
+[08/25/2022 12:18:38] [Task 5720] Heading to Sign Up 
+[08/25/2022 12:18:38] [Task 5720] First Name: Tommi 
+[08/25/2022 12:18:38] [Task 5720] Last Name: Demmy 
+[08/25/2022 12:18:38] [Task 5720] Email: kendrags11@gmail.com 
+[08/25/2022 12:18:38] [Task 5720] Password: User1234! 
+[08/25/2022 12:18:41] [Task 5720] Creating Account 
+[08/25/2022 12:18:49] [Task ] Welcome Back 
+[08/25/2022 12:18:49] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:18:49] [Task 1045]  
+[08/25/2022 12:18:49] [Task 1045] Starting 
+[08/25/2022 12:18:49] [Task 1045] Using Headless Mode: false 
+[08/25/2022 12:18:49] [Task 1045] Using Proxy Mode: false 
+[08/25/2022 12:18:49] [Task 1045]  
+[08/25/2022 12:18:49] [Task 1045] Started 
+[08/25/2022 12:18:50] [Task 1045] Heading to Sign Up 
+[08/25/2022 12:18:50] [Task 1045] First Name: Tommi 
+[08/25/2022 12:18:50] [Task 1045] Last Name: Demmy 
+[08/25/2022 12:18:50] [Task 1045] Email: kendsrags11@gmail.com 
+[08/25/2022 12:18:50] [Task 1045] Password: User1234! 
+[08/25/2022 12:18:53] [Task 1045] Creating Account 
+[08/25/2022 12:18:58] [Task 1045] Account Created 
+[08/25/2022 12:18:59] [Task 1045] Sent Webhook 
+[08/25/2022 12:18:59] [Task 1045] Added Account to /SuccessfullAccount Folder 
+[08/25/2022 12:19:00] [Task 8504]  
+[08/25/2022 12:19:00] [Task 8504] Starting 
+[08/25/2022 12:19:00] [Task 8504] Using Headless Mode: false 
+[08/25/2022 12:19:00] [Task 8504] Using Proxy Mode: false 
+[08/25/2022 12:19:00] [Task 8504]  
+[08/25/2022 12:19:00] [Task 8504] Started 
+[08/25/2022 12:19:01] [Task 8504] Heading to Sign Up 
+[08/25/2022 12:19:01] [Task 8504] First Name: Martica 
+[08/25/2022 12:19:01] [Task 8504] Last Name: Dreyer 
+[08/25/2022 12:19:01] [Task 8504] Email: jasson1s311@gmail.com 
+[08/25/2022 12:19:01] [Task 8504] Password: User1234! 
+[08/25/2022 12:19:05] [Task 8504] Creating Account 
+[08/25/2022 12:19:10] [Task 8504] Account Created 
+[08/25/2022 12:19:10] [Task 8504] Sent Webhook 
+[08/25/2022 12:19:10] [Task 8504] Added Account to /SuccessfullAccount Folder 
+[08/25/2022 12:19:10] [Task 6525]  
+[08/25/2022 12:19:10] [Task 6525] Starting 
+[08/25/2022 12:19:10] [Task 6525] Using Headless Mode: false 
+[08/25/2022 12:19:10] [Task 6525] Using Proxy Mode: false 
+[08/25/2022 12:19:10] [Task 6525]  
+[08/25/2022 12:19:10] [Task 6525] Started 
+[08/25/2022 12:19:12] [Task 6525] Heading to Sign Up 
+[08/25/2022 12:19:12] [Task 6525] First Name: Janot 
+[08/25/2022 12:19:12] [Task 6525] Last Name: Lema 
+[08/25/2022 12:19:12] [Task 6525] Email: dorismarstin11s13111@gmail.com 
+[08/25/2022 12:19:12] [Task 6525] Password: User1234! 
+[08/25/2022 12:19:15] [Task 6525] Creating Account 
+[08/25/2022 12:19:21] [Task 6525] Account Created 
+[08/25/2022 12:19:21] [Task 6525] Sent Webhook 
+[08/25/2022 12:19:21] [Task 6525] Added Account to /SuccessfullAccount Folder 
+[08/25/2022 12:19:21] [Task 9404]  
+[08/25/2022 12:19:21] [Task 9404] Starting 
+[08/25/2022 12:19:21] [Task 9404] Using Headless Mode: false 
+[08/25/2022 12:19:21] [Task 9404] Using Proxy Mode: false 
+[08/25/2022 12:19:21] [Task 9404]  
+[08/25/2022 12:19:21] [Task 9404] Started 
+[08/25/2022 12:19:23] [Task 9404] Heading to Sign Up 
+[08/25/2022 12:19:23] [Task 9404] First Name: Melody 
+[08/25/2022 12:19:23] [Task 9404] Last Name: Eleonora 
+[08/25/2022 12:19:23] [Task 9404] Email: Rebsecs1a31111@gmail.com 
+[08/25/2022 12:19:23] [Task 9404] Password: User1234! 
+[08/25/2022 12:19:26] [Task 9404] Creating Account 
+[08/25/2022 12:19:32] [Task 9404] Account Created 
+[08/25/2022 12:19:32] [Task 9404] Sent Webhook 
+[08/25/2022 12:19:32] [Task 9404] Added Account to /SuccessfullAccount Folder 
+[08/25/2022 12:19:32] [Task 7695]  
+[08/25/2022 12:19:32] [Task 7695] Starting 
+[08/25/2022 12:19:32] [Task 7695] Using Headless Mode: false 
+[08/25/2022 12:19:32] [Task 7695] Using Proxy Mode: false 
+[08/25/2022 12:19:32] [Task 7695]  
+[08/25/2022 12:19:32] [Task 7695] Started 
+[08/25/2022 12:19:34] [Task 7695] Heading to Sign Up 
+[08/25/2022 12:19:34] [Task 7695] First Name: Micaela 
+[08/25/2022 12:19:34] [Task 7695] Last Name: Jeanie 
+[08/25/2022 12:19:34] [Task 7695] Email: raquesls11a1311@gmail.com 
+[08/25/2022 12:19:34] [Task 7695] Password: User1234! 
+[08/25/2022 12:19:48] [Task ] Welcome Back 
+[08/25/2022 12:19:48] [Task Starting] Getting Accounts From the "Accounts.csv" File 
+[08/25/2022 12:19:48] [Task 9117]  
+[08/25/2022 12:19:48] [Task 9117] Starting 
+[08/25/2022 12:19:48] [Task 9117] Using Headless Mode: true 
+[08/25/2022 12:19:48] [Task 9117] Using Proxy Mode: false 
+[08/25/2022 12:19:48] [Task 9117]  
+[08/25/2022 12:19:48] [Task 9117] Started 
+[08/25/2022 12:19:49] [Task 9117] Heading to Sign Up 
+[08/25/2022 12:19:49] [Task 9117] First Name: Tommi 
+[08/25/2022 12:19:49] [Task 9117] Last Name: Demmy 
+[08/25/2022 12:19:49] [Task 9117] Email: kesndsrags11@gmail.com 
+[08/25/2022 12:19:49] [Task 9117] Password: User1234! 
+[08/25/2022 12:19:52] [Task 9117] Creating Account 
+[08/25/2022 12:19:57] [Task 9117] Caught by Anti-Bot 
+[08/25/2022 12:19:57] [Task 9117] Waiting for 8 Minute(s) 
